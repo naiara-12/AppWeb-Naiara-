@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppWebNaiara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a944c8ed04942befcb1da518b8b57245ac275510")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b27f691c30bf1e8ac7220e07633917c34fdd68")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppWebNaiara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppWebNaiara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
