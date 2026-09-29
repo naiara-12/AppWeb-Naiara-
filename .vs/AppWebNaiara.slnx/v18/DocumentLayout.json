@@ -1,12 +1,165 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:components\\pages\\processo\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\configs\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:configs\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\components\\pages\\processo\\cadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:components\\pages\\processo\\cadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\model\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:model\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|c:\\users\\2024102020070\\documents\\github\\appweb-naiara-\\dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3903B3CB-25EA-13CE-66C8-DA01A6997215}|AppWebNaiara.csproj|solutionrelative:dao\\processodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:38:53.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProcessoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\DAO\\ProcessoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProcessoDAO.cs",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\DAO\\ProcessoDAO.cs",
+              "RelativeToolTip": "DAO\\ProcessoDAO.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:38:08.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T18:16:21.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Components\\Pages\\Processo\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processo\\Index.razor",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Components\\Pages\\Processo\\Index.razor",
+              "RelativeToolTip": "Components\\Pages\\Processo\\Index.razor",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T18:42:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T18:48:16.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Configs\\Conexao.cs",
+              "RelativeDocumentMoniker": "Configs\\Conexao.cs",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Configs\\Conexao.cs",
+              "RelativeToolTip": "Configs\\Conexao.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:30:50.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cadastro.razor",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Components\\Pages\\Processo\\Cadastro.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Processo\\Cadastro.razor",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Components\\Pages\\Processo\\Cadastro.razor",
+              "RelativeToolTip": "Components\\Pages\\Processo\\Cadastro.razor",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwKsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T18:42:48.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Processo.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Model\\Processo.cs",
+              "RelativeDocumentMoniker": "Model\\Processo.cs",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Model\\Processo.cs",
+              "RelativeToolTip": "Model\\Processo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:23:07.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAOHelper.cs",
+              "DocumentMoniker": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Configs\\DAOHelper.cs",
+              "RelativeDocumentMoniker": "Configs\\DAOHelper.cs",
+              "ToolTip": "C:\\Users\\2024102020070\\Documents\\GitHub\\AppWeb-Naiara-\\Configs\\DAOHelper.cs",
+              "RelativeToolTip": "Configs\\DAOHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:33:46.203Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
